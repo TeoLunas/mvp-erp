@@ -1,7 +1,7 @@
 
 const Navbar = () => {
 
-    const tabs = ["Dashboard", "Ventas", "Inventario", "Compras", "Reportes", "Configuración"];
+    const tabs = ["Dashboard", "Ventas", "Inventario", "Compras", "Reportes", "Configuración", "Otros"];
 
 
     return (
